@@ -3,11 +3,11 @@ entries:
   my-demo-chart:
   - apiVersion: v1
     appVersion: "1.0"
-    created: 2020-05-19T09:26:14.4604196+01:00
+    created: 2020-05-19T09:59:55.4690011+01:00
     description: A Helm chart for Kubernetes
-    digest: af987ad8dd5d604ae5eee994e22463140c4de86645d88eaa09d916685dc1294f
+    digest: c37a54ee1c5d5d51966f335c1909fe5a284d4e822e858cf74d763cfd40784dd2
     name: my-demo-chart
     urls:
     - https://liammoat.github.io/helm-charts/dist/my-demo-chart-0.1.0.tgz
     version: 0.1.0
-generated: 2020-05-19T09:26:14.4554189+01:00
+generated: 2020-05-19T09:59:55.4620005+01:00
